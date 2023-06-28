@@ -1,2 +1,3 @@
 # blog
-personal website
+
+Personal website for Wayne Dahlberg
